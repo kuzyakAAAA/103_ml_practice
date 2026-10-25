@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+._*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Переменные окружения и секреты
+.env
+
+# Редакторы
+.vscode/
+.idea/
